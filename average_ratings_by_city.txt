@@ -1,0 +1,144 @@
+Average rating for restaurants in each city:
+
+City
+Abu Dhabi                 4.300000
+Agra                      3.965000
+Ahmedabad                 4.161905
+Albany                    3.555000
+Allahabad                 3.395000
+Amritsar                  3.685714
+Ankara                    4.305000
+Armidale                  3.500000
+Athens                    4.200000
+Auckland                  4.275000
+Augusta                   4.130000
+Aurangabad                3.375000
+Balingup                  3.200000
+Bandung                   4.200000
+Bangalore                 4.375000
+Beechworth                4.600000
+Bhopal                    3.950000
+Bhubaneshwar              3.980952
+Birmingham                3.680000
+Bogor                     3.850000
+Boise                     4.260000
+Bras�_lia                 3.495000
+Cape Town                 4.110000
+Cedar Rapids/Iowa City    4.165000
+Chandigarh                4.050000
+Chatham-Kent              3.700000
+Chennai                   4.315000
+Clatskanie                4.300000
+Cochrane                  3.100000
+Coimbatore                4.135000
+Colombo                   3.870000
+Columbus                  4.030000
+Consort                   3.000000
+Dalton                    4.110000
+Davenport                 3.715000
+Dehradun                  4.050000
+Des Moines                4.235000
+Dicky Beach               3.600000
+Doha                      4.060000
+Dubai                     4.370000
+Dubuque                   3.535000
+East Ballina              4.100000
+Edinburgh                 4.090000
+Faridabad                 1.866932
+Fernley                   3.700000
+Flaxton                   3.500000
+Forrest                   3.700000
+Gainesville               4.035000
+Ghaziabad                 2.852000
+Goa                       4.245000
+Gurgaon                   2.651431
+Guwahati                  4.190476
+Hepburn Springs           3.800000
+Huskisson                 4.100000
+Hyderabad                 4.344444
+Indore                    3.970000
+Inner City                4.900000
+Inverloch                 3.700000
+Jaipur                    4.130000
+Jakarta                   4.356250
+Johannesburg              4.200000
+Kanpur                    3.815000
+Kochi                     4.080000
+Kolkata                   4.255000
+Lakes Entrance            3.800000
+Lakeview                  3.600000
+Lincoln                   4.500000
+London                    4.535000
+Lorn                      3.600000
+Lucknow                   4.195238
+Ludhiana                  3.980000
+Macedon                   3.500000
+Macon                     4.115000
+Makati City               4.650000
+Manchester                4.045000
+Mandaluyong City          4.625000
+Mangalore                 3.745000
+Mayfield                  2.900000
+Mc Millan                 2.400000
+Middleton Beach           3.800000
+Miller                    3.400000
+Mohali                    4.300000
+Monroe                    3.600000
+Montville                 2.400000
+Mumbai                    4.085000
+Mysore                    3.695000
+Nagpur                    3.965000
+Nashik                    3.520000
+New Delhi                 2.438845
+Noida                     2.036204
+Ojo Caliente              3.600000
+Orlando                   4.475000
+Palm Cove                 4.400000
+Panchkula                 4.200000
+Pasay City                4.366667
+Pasig City                4.633333
+Patna                     3.455000
+Paynesville               2.600000
+Penola                    3.400000
+Pensacola                 4.200000
+Phillip Island            3.700000
+Pocatello                 3.485000
+Potrero                   3.300000
+Pretoria                  4.190000
+Princeton                 4.000000
+Puducherry                3.730000
+Pune                      4.220000
+Quezon City               4.800000
+Ranchi                    3.455000
+Randburg                  4.300000
+Rest of Hawaii            4.410000
+Rio de Janeiro            4.265000
+San Juan City             4.250000
+Sandton                   4.300000
+Santa Rosa                3.800000
+Savannah                  4.155000
+Secunderabad              4.500000
+Sharjah                   4.030000
+Singapore                 3.575000
+Sioux City                3.765000
+Surat                     3.935000
+S��o Paulo                3.530000
+Tagaytay City             4.500000
+Taguig City               4.525000
+Tampa Bay                 4.410000
+Tangerang                 4.300000
+Tanunda                   4.400000
+Trentham East             4.100000
+Vadodara                  4.025000
+Valdosta                  3.715000
+Varanasi                  3.510000
+Vernonia                  4.300000
+Victor Harbor             3.600000
+Vineland Station          4.300000
+Vizag                     4.005000
+Waterloo                  3.650000
+Weirton                   3.900000
+Wellington City           4.250000
+Winchester Bay            3.200000
+Yorkton                   3.300000
+��stanbul                 4.292857
