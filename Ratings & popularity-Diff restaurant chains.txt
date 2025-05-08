@@ -1,0 +1,735 @@
+Ratings and popularity of different restaurant chains:
+
+                                           Average Rating  Total Votes
+Restaurant Name                                                       
+Barbeque Nation                                  4.353846        28142
+AB's - Absolute Barbecues                        4.825000        13400
+Big Chill                                        4.475000        10853
+Farzi Cafe                                       4.366667        10098
+Truffles                                         3.950000         9682
+Chili's                                          4.580000         8156
+Joey's Pizza                                     4.250000         7807
+Big Yellow Door                                  4.266667         7511
+Saravana Bhavan                                  4.133333         7238
+Starbucks                                        3.805556         7139
+Pirates of Grill                                 4.025000         7091
+Karim's                                          3.030769         6878
+Domino's Pizza                                   2.740506         6643
+Subway                                           2.907937         6124
+Dunkin' Donuts                                   3.136364         5974
+Pind Balluchi                                    2.630000         5582
+Talaga Sampireun                                 4.900000         5514
+Punjab Grill                                     4.340000         5424
+Berco's                                          3.166667         5394
+SodaBottleOpenerWala                             4.066667         5374
+McDonald's                                       3.339583         5291
+Tea Villa Cafe                                   3.925000         5167
+Pizza Hut                                        3.320000         4961
+Out Of The Box                                   3.850000         4900
+Burger King                                      3.406250         4617
+Khan Chacha                                      2.471429         4610
+Haldiram's                                       3.625000         4525
+TGI Friday's                                     3.850000         4357
+Nando's                                          3.140000         4045
+Sagar Ratna                                      2.963158         4038
+Olive Bistro                                     4.150000         3708
+SpiceKlub                                        4.300000         3651
+QD's Restaurant                                  4.033333         3536
+Hard Rock Cafe                                   4.200000         3491
+Wood Box Cafe                                    3.950000         3449
+AB's Absolute Barbecues                          4.850000         3151
+The Flying Saucer Cafe                           4.100000         3145
+Mocha                                            4.185714         3111
+Naturals Ice Cream                               4.800000         3094
+Desi Vibes                                       3.900000         3043
+The Cheesecake Factory                           4.650000         3010
+Bikanervala                                      3.192857         2980
+Raasta                                           3.850000         2943
+Onesta                                           4.500000         2821
+Cafe Delhi Heights                               4.033333         2711
+Jungle Jamboree                                  3.825000         2705
+Mamagoto                                         4.166667         2633
+Imperfecto                                       3.550000         2546
+Mainland China                                   3.716667         2541
+Naivedyam                                        3.866667         2481
+Chaayos                                          3.538889         2473
+Cafe Coffee Day                                  2.419277         2428
+Nizam's Kathi Kabab                              3.650000         2356
+KFC                                              2.744444         2331
+Kake Da Hotel                                    3.280000         2327
+Smoke House Deli                                 4.050000         2292
+Palmshore                                        4.300000         2228
+The Chatter House                                4.100000         2136
+Punjabi By Nature                                3.700000         2026
+Oh! Calcutta                                     4.100000         1999
+Ceviche Tapas Bar & Restaurant                   4.250000         1993
+The Beer Cafe                                    3.016667         1987
+Bombay Brasserie                                 4.400000         1984
+Gola Sizzlers                                    3.300000         1968
+Yo! China                                        2.988889         1951
+Made In Punjab                                   4.050000         1917
+Effingut Brewerkz                                4.300000         1906
+Amici Cafe                                       3.700000         1896
+Bikkgane Biryani                                 3.966667         1882
+Swagath                                          3.620000         1819
+RollsKing                                        3.700000         1814
+Indian Coffee House                              3.533333         1811
+Garam Dharam                                     3.550000         1805
+The Junkyard Cafe                                3.850000         1765
+Pita Pit                                         3.700000         1703
+Pebble Street                                    3.950000         1703
+Imly                                             3.900000         1689
+Zaffran                                          4.166667         1661
+Not Just Paranthas                               3.333333         1647
+Nazeer Foods                                     3.328571         1628
+Caffe Tonino                                     3.850000         1604
+Shake Square                                     3.650000         1594
+Ichiban                                          4.100000         1533
+Deez Biryani & Kebabs                            3.650000         1532
+Pizza Hut Delivery                               2.657895         1527
+Teddy Boy                                        3.750000         1527
+The Yellow Chilli                                3.671429         1526
+Whipped                                          4.200000         1497
+Happy Hakka                                      3.860000         1471
+Sbarro                                           3.400000         1408
+Captain Grub                                     3.540000         1408
+Instapizza                                       3.800000         1406
+Slice of Italy                                   2.728571         1377
+Paradise                                         3.700000         1374
+Zizo                                             3.866667         1371
+Silantro Fil-Mex                                 4.850000         1364
+Gazebo                                           4.166667         1279
+Dishoom                                          4.600000         1269
+Keventers                                        2.870588         1263
+Krispy Kreme                                     3.933333         1257
+Angels in my Kitchen                             3.412500         1241
+Matchbox                                         4.400000         1214
+Town Hall                                        3.650000         1199
+China Garden                                     3.850000         1159
+Giani's                                          2.781818         1150
+Wow! Momo                                        2.754545         1119
+The Crab Shack                                   3.950000         1112
+The Midnight Heroes                              3.660000         1111
+Shree Rathnam                                    3.000000         1083
+The Big Chill Cakery                             4.450000         1059
+Applebee's                                       3.900000         1057
+L'Opera                                          3.820000         1046
+Asian Haus                                       4.000000         1046
+The Great Kabab Factory                          3.500000         1038
+DCK- Dana Choga's Kitchen                        3.125000         1037
+Caffe 9                                          4.200000         1030
+Wah Ji Wah                                       2.342105         1026
+Moti Mahal Delux                                 3.000000         1023
+The Fisherman's Wharf                            4.266667         1022
+Changezi Chicken                                 3.500000         1017
+Nathu's Sweets                                   2.720000         1003
+BTW                                              3.285714          998
+Din Tai Fung                                     4.350000          997
+Green Chick Chop                                 2.672549          964
+San Carlo                                        4.250000          893
+Side Wok                                         3.866667          875
+The Barbeque Company                             4.000000          869
+Costa Coffee                                     2.415000          861
+Cafe Turtle                                      3.433333          861
+The Coffee Bean & Tea Leaf                       3.425000          855
+Giani                                            2.689655          854
+Suruchi                                          3.600000          836
+Embassy                                          3.250000          832
+Baker Street                                     3.850000          831
+Taco Bell                                        3.866667          825
+Munch Nation                                     3.900000          823
+Barista                                          3.072727          815
+Wendy's                                          3.800000          814
+Chili's Grill & Bar                              3.950000          813
+Baking Bad                                       3.750000          795
+Defence Bakery                                   3.700000          791
+Harry's Bar + Cafe                               3.650000          787
+Chowringhee                                      2.562500          785
+Texas Roadhouse                                  3.860000          783
+Rhinehart's Oyster Bar                           4.000000          782
+34, Chowringhee Lane                             2.791667          777
+Biryani Blues                                    3.666667          776
+Colonel's Kababz                                 3.200000          766
+Cinnabon                                         4.000000          757
+Burger Singh                                     3.433333          757
+Qureshi's Kabab Corner                           3.575000          744
+Smaaash                                          3.950000          743
+Khidmat                                          3.500000          741
+Natural Ice Cream                                4.500000          732
+Circus                                           3.950000          719
+Rollmaal                                         3.400000          719
+Kebab Xpress                                     3.025000          708
+Eggers Madhouse                                  3.850000          698
+Kake Di Hatti                                    3.550000          678
+The National                                     4.150000          677
+Mad Over Donuts                                  3.740000          676
+Italiano                                         3.300000          674
+10 Downing Street                                4.000000          670
+Perch Wine & Coffee Bar                          4.250000          665
+Jamie's Italian                                  4.050000          663
+Southy                                           2.716667          643
+Om Sweets & Snacks                               3.133333          638
+Chicago Pizza                                    2.325000          633
+Gung The Palace                                  3.950000          630
+Granite City Food & Brewery                      4.050000          628
+Mellow Mushroom                                  4.250000          625
+Speedy Chow                                      3.466667          623
+Chai Point                                       3.100000          623
+HuHot Mongolian Grill                            3.766667          618
+Bun Intended                                     3.950000          615
+The Cafe                                         4.350000          590
+D�_ner Grill                                     3.800000          590
+Burger Point                                     3.145455          574
+Nanking                                          3.650000          569
+Bhimsain's Bengali Sweet House                   3.150000          564
+Cocoberry                                        3.422222          564
+Open Oven                                        3.475000          553
+Biryani By Kilo                                  4.000000          553
+Cafe Brown Sugar                                 3.650000          551
+Red Mango                                        3.650000          550
+Goli Vada Pav No. 1                              2.750000          548
+Kebab Gali                                       3.900000          544
+Wok On Fire                                      3.800000          542
+Theos                                            3.800000          529
+Basil Tree                                       2.900000          527
+Bijoli Grill                                     3.700000          525
+MR.D - Deliciousness Delivered                   3.400000          515
+Kolkata Biryani House                            3.100000          513
+Au Bon Pain                                      3.250000          511
+Wrapss                                           2.566667          510
+Hong Kong Express                                3.475000          510
+Crazy Noodles                                    1.800000          509
+Behrouz Biryani                                  3.184615          509
+Nite Bites                                       3.175000          507
+Chaophraya                                       4.166667          505
+Carl's Jr.                                       3.650000          503
+The Breakfast Club                               4.000000          502
+Moti Mahal Delux Tandoori Trail                  2.733333          501
+Delhi Club House                                 4.000000          497
+Apni Rasoi                                       1.941667          489
+Fish Streat                                      3.700000          483
+Nooba                                            3.700000          481
+Manohar Dairy And Restaurant                     4.250000          481
+Nirula's                                         2.650000          478
+Kaveri Restaurant And Caterers                   3.700000          472
+Twigly                                           4.550000          471
+FreshMenu                                        3.725000          467
+Invitation                                       1.800000          460
+Hungry - I                                       3.150000          457
+Cafe Diva                                        3.850000          456
+Bake N Shake                                     4.200000          446
+Wai Yu Mun Ching                                 3.550000          433
+Puri Bakers                                      3.725000          432
+Baskin Robbins                                   1.860714          428
+Tipu Sultan                                      3.850000          427
+Burgrill                                         4.450000          427
+Hawkers                                          3.050000          424
+Metro Dhaba                                      1.900000          419
+Nutritious Nation                                3.550000          416
+The Creamery                                     4.050000          415
+Cafe Coffee Day The Square                       3.650000          410
+Adyar Ananda Bhavan                              3.150000          407
+New Town Cafe - Park Plaza                       3.900000          404
+Urban Punjab                                     3.433333          403
+Sanjha Chulha                                    2.416667          398
+Chinese Corner                                   1.240000          398
+Chokola                                          3.450000          397
+Arabian Nites                                    3.650000          397
+Al Bake                                          2.950000          396
+La Pino'z Pizza                                  3.966667          394
+Madras Cafe                                      1.918182          389
+Kamal's                                          3.250000          389
+Goosebumps                                       3.800000          387
+Barbeque Ville                                   4.100000          372
+Aureo Dine & Bake House                          1.750000          370
+Chawla's�_                                       2.271429          364
+Big Wong XL                                      3.950000          361
+Biryani Art                                      3.700000          352
+Sugar & Spice - Le Marche                        2.900000          351
+Dilli BC                                         4.250000          351
+Anjlika Pastry Shop                              3.750000          349
+Burger Hut                                       3.200000          335
+The Mad Teapot/The Wishing Chair                 4.250000          334
+Beliram Degchiwala                               3.500000          333
+Habibi                                           3.400000          330
+Cafe Coffee Day - The Lounge                     2.800000          330
+Gymkhana                                         4.700000          328
+Americana Kitchen and Bar                        2.600000          326
+Finger Licious                                   2.200000          325
+Fat Lulu's                                       3.750000          319
+Spice Route                                      3.500000          319
+Paapi Paet                                       3.450000          318
+Little Chef                                      3.400000          318
+Ashoka Restaurant                                3.550000          318
+Kamboj's                                         2.600000          315
+The Diet Kitchen                                 3.750000          314
+Sandwich King                                    3.650000          314
+Litti.In                                         3.400000          312
+Food Scouts                                      4.433333          312
+Tikka Town                                       3.033333          309
+All About Food                                   1.950000          305
+Doughlicious                                     3.500000          304
+Bon Bon Pastry Shop                              3.300000          304
+The Golden Dragon                                2.833333          304
+Alaturka                                         2.950000          302
+Comesum                                          2.350000          300
+Mysore Cafe                                      3.600000          291
+Mr. Brown                                        3.866667          285
+D�_vero��lu                                      4.300000          283
+Khana Khazana                                    1.850000          281
+Twenty Four Seven                                2.147368          280
+Blue Tokai Coffee Roasters                       3.850000          279
+Captain Bill$ Deliverz                           2.533333          273
+Baked Buns                                       3.400000          273
+Mitra Da Dhaba                                   2.100000          273
+Otik Cake Shop                                   3.650000          271
+Chalte Firte Momos & Special Foods               3.350000          267
+Gopala                                           3.290000          264
+Chinese Hut                                      2.728571          261
+Tibb's Frankie                                   2.842857          260
+Pudding & Pie                                    3.166667          258
+Chutneez Restaurant Lounge & Bar                 2.550000          256
+Shawarma Wala                                    2.066667          255
+Pho King Awesome                                 2.050000          254
+Movenpick                                        3.966667          253
+Big Fat Sandwich                                 3.200000          253
+Bakers Oven                                      3.600000          252
+Hwealthcafe                                      3.800000          252
+New Kadimi                                       2.900000          252
+Moti Mahal Delux- Legendary Culinary             3.600000          249
+Drifters Cafe                                    4.000000          248
+Red Chilli                                       2.500000          247
+The Kathis                                       3.000000          247
+Zaika                                            2.850000          245
+Viva Hyderabad                                   2.380000          243
+Beijing Street                                   3.700000          242
+Twisted Tacos                                    3.600000          242
+Baker's Stop                                     3.750000          241
+Sibang Bakery                                    3.700000          240
+Drool Waffles                                    3.650000          237
+Republic of Chicken                              2.422222          234
+Kanwarji's                                       3.433333          232
+Hot Pot                                          2.075000          232
+Little Italy                                     3.550000          227
+Sandoz                                           2.400000          225
+Oberoi Biryani                                   2.750000          225
+Dabba Meat                                       3.250000          224
+Punjabi Zaika                                    2.350000          223
+Black Pepper                                     2.050000          223
+Punjabi Chaap Corner                             2.350000          221
+Green Leaf                                       3.250000          220
+The Artful Baker                                 2.000000          220
+Chaska                                           2.375000          220
+First Eat                                        3.800000          219
+Mr. Sub                                          2.583333          217
+221 B Baker Street                               3.366667          215
+Arabian Delites                                  3.600000          214
+Kerala Cafe                                      3.066667          214
+The Chocolate Room                               3.500000          214
+Timboo Cafe                                      4.200000          213
+Shyam Sweets                                     3.450000          209
+Stop My Starvation                               4.300000          209
+Fast Trax                                        3.300000          207
+Punjabi Rasoi                                    1.250000          207
+Nukkadwala                                       2.820000          206
+The Chai Story                                   3.700000          206
+Flying Cakes                                     2.233333          205
+Mithaas                                          3.050000          205
+Dilli Darbar                                     3.100000          204
+The Pint Room                                    3.700000          203
+Hot Cherries                                     3.600000          200
+Punjabi Pakwaan                                  3.133333          199
+Patiala Shahi                                    3.450000          196
+Chawla's Tandoori Junction                       2.266667          195
+Bengal Sweet Corner                              2.800000          192
+Say Cheese                                       2.700000          192
+Chick-fil-A                                      3.700000          192
+Moon Bite                                        3.200000          190
+Big Dragon                                       3.350000          189
+Jahangeer Foods                                  3.250000          188
+Dunkin Donuts                                    4.000000          188
+SGF - Spice Grill Flame                          3.200000          187
+Crudo Juicery                                    4.300000          187
+Yumm Biryani                                     3.200000          187
+Taste of India                                   2.100000          186
+Chawla's                                         3.350000          185
+Nazeer Delicacies                                3.300000          184
+Tamura                                           3.400000          182
+Punjabi Tadka                                    2.550000          182
+Let's Noodle                                     1.300000          182
+Dezertfox                                        3.900000          181
+Fit Bites                                        3.750000          180
+La Americana                                     3.650000          180
+Habibi Express                                   1.500000          177
+4700BC Popcorn                                   3.500000          176
+Hungry Minister                                  3.500000          176
+Kathi Junction                                   1.625000          174
+Cake Palace                                      3.250000          171
+Kulcha King                                      1.900000          170
+Nagpal's                                         3.450000          166
+Sethi's The Cake Shop                            3.350000          166
+The Tandoor                                      3.000000          166
+Burger Joint                                     1.750000          165
+Perfect Bake                                     3.550000          165
+Moksha                                           3.450000          164
+Cook Du Kdu                                      3.150000          164
+Kanha Sweets                                     3.450000          164
+Caff�� La Poya                                   1.850000          164
+Hunger Strike                                    3.500000          162
+Roll Club                                        3.066667          162
+Los Agaves                                       2.050000          160
+Hornbill                                         3.550000          156
+Chawla's Chic Inn                                3.033333          155
+Sri Balaji                                       2.333333          155
+The Chinese Hut                                  2.860000          155
+Hotel Malabar                                    3.300000          153
+Cones & Curries                                  1.850000          153
+Paramjeet Machi Wala                             3.500000          152
+High On Burgers                                  3.350000          152
+Frozen Factory                                   3.800000          151
+Tikka Junction                                   3.433333          150
+Country Curries                                  3.100000          147
+Ashok Meat Wala                                  3.550000          146
+Manohar Bikkaneri                                3.700000          145
+Sushiya Express                                  3.633333          144
+Gupta Chat Corner                                3.500000          143
+Bhoj Restaurant                                  3.250000          143
+Bobby Tikki Wala                                 2.900000          143
+Shawarma King's                                  3.400000          143
+Foodhall                                         2.533333          143
+Koyla Kebab                                      3.350000          141
+Le Chef                                          3.150000          140
+Hira Sweets                                      3.033333          140
+Polka Pastry & Snack Bar                         3.100000          139
+Punjab Restaurant                                3.266667          137
+Jaiveer Naan & Chaap                             2.900000          133
+Food Express                                     1.800000          128
+Night Food Xprs                                  2.700000          127
+Pakwan                                           2.075000          126
+Frontier                                         2.828571          125
+Momo-Cha                                         2.725000          124
+Muffins                                          2.700000          122
+Chawla's Tandoori Xpress                         2.850000          120
+Hot Stuff                                        3.400000          119
+Angeethi                                         3.050000          118
+Tea Halt                                         2.866667          118
+Laxmi Ice Cream                                  3.550000          118
+Nirula's Ice Cream                               2.400000          117
+Chawnsan Chef                                    3.400000          117
+bu��no                                           3.750000          117
+Pasta Hut                                        3.400000          116
+Chawla's 2                                       1.700000          116
+Burger Xpress                                    1.625000          116
+Gullu's                                          3.000000          114
+Midnight Hunger Hub                              4.033333          114
+Veg Ex                                           3.600000          113
+Rainbows                                         3.100000          113
+Sardar A Pure Meat Shop                          1.722222          112
+New Punjabi Khana                                3.500000          112
+Coldpress Company                                4.050000          108
+Bats On Delivery                                 2.700000          108
+Punjabi Dhaba                                    2.200000          107
+Public Cafe                                      2.400000          107
+Kolkata Kathi Roll                               3.100000          106
+Oh Buoy                                          3.350000          105
+Grillz                                           2.350000          104
+Halki Aanch                                      3.000000          103
+Singz                                            2.700000          103
+Raj Restaurant                                   2.750000          103
+The Culinary Pitaara                             3.500000          102
+Wagh Bakri Tea Lounge                            3.600000          102
+Chawla Family Restaurant                         3.050000          101
+Relax Xpress                                     3.200000          100
+Ovenstory Pizza                                  2.500000          100
+GoGourmet                                        2.650000           99
+Hasty Tasty                                      2.033333           99
+Shri Ram Restaurant                              2.850000           98
+The Bake Studio                                  3.350000           98
+Just Vada Pav                                    1.200000           97
+South Cafe                                       1.750000           96
+Prince Chaat Corner                              3.450000           96
+Chimney                                          3.033333           95
+Biryaniwala                                      2.350000           94
+Bikano Chat Cafe                                 2.800000           93
+Hurry's Paratha                                  3.500000           92
+Muradabadi Shahi Biryani & Chicken Corner        1.966667           92
+Cakes & Bakes                                    3.166667           92
+Sumo Sushi                                       3.950000           91
+Madras Dosa & Chinese                            1.350000           91
+Go Kylin                                         3.150000           90
+South Indian Corner                              3.400000           89
+Flirty Momo's                                    2.920000           89
+Shankar Fast Food                                2.950000           89
+JSB Evergreen Snack & Sweets                     3.150000           88
+Bikaner Sweets                                   1.338462           88
+Pitstop                                          1.650000           87
+Bawarchi                                         3.125000           86
+Flavours                                         3.100000           85
+BarShala                                         3.266667           85
+Madhuvan Chinese Fast Food                       2.600000           84
+The Dosa King                                    3.050000           84
+Bunty Dhaba                                      2.833333           84
+Oberoi's                                         3.400000           83
+Spooky Sky                                       3.450000           82
+Vaishno Punjabi Dhaba                            3.250000           82
+Kings Kulfi                                      2.266667           82
+A Piece of Paris                                 3.750000           81
+Qureshi Kabab Corner                             3.650000           81
+Zaaika Junction                                  2.850000           81
+ZASTY                                            3.500000           80
+Street Foods by Punjab Grill                     1.933333           79
+Kumar Pastry Shop                                3.250000           79
+Faasos                                           2.937500           77
+Chinese King                                     2.500000           77
+Raj Rasoi                                        1.650000           76
+Riyaz Chicken Corner                             1.700000           75
+Druk                                             3.450000           75
+Hyderabad House                                  3.100000           74
+Wheelyz                                          2.850000           73
+KB's Kulfi & Icecream                            3.133333           73
+Shahenshah                                       3.133333           72
+Brijwasi Restaurant                              3.000000           71
+Gelato Vinto                                     2.975000           70
+Shama Chicken Corner                             1.077778           69
+Shree Bikaner Misthan Bhandar                    3.000000           69
+China Town                                       2.028571           68
+True Blue                                        3.166667           68
+Mitthu Tikki Wala                                3.300000           67
+The Kitchen                                      2.950000           67
+Fabulous Cake Bites                              3.500000           67
+Reena Restaurant                                 3.100000           66
+Bharat Sweets                                    3.333333           65
+Papa Veg Chinese Food                            3.350000           62
+Shree Durga Dosa                                 3.050000           62
+Vadapav Junction                                 3.450000           62
+Haldiram Bhujiawala                              3.450000           62
+Aggarwal Sweets India                            1.733333           61
+Hot Joint Fast Food                              1.300000           61
+Senorita's                                       1.850000           60
+South Indian Cafe                                3.000000           60
+Hangchuaa's Chinese Food Corner                  2.966667           60
+Bake Club                                        3.150000           59
+Garota de Ipanema                                4.600000           59
+The Blue Tandoor                                 2.750000           59
+Tea Trails                                       1.850000           58
+Havmor Ice Cream                                 3.366667           57
+Kolkata Hot Kathi Roll                           2.950000           56
+Weird Time Food                                  3.350000           56
+Mithaas Sweets                                   2.900000           56
+Roti Aur Boti                                    3.350000           56
+Ammu's South Indian Restaurant                   2.950000           55
+Miam                                             3.550000           55
+Midnight Hunger                                  3.450000           55
+Kitchen King                                     1.300000           55
+Sonya Bakery Cafe                                3.400000           54
+Nawabi Mughlai Zaika                             3.250000           53
+Kati Roll Cottage                                3.600000           53
+Punjabee's Darbar                                3.150000           53
+Jack Po!tato's                                   3.400000           52
+Zooby's Kitchen                                  3.150000           52
+The Night Owl                                    1.400000           52
+Gulab                                            2.950000           51
+Clever Fox Cafe                                  3.100000           51
+Urban Dhaba                                      2.850000           51
+Mirchievous                                      3.500000           50
+Pandey Chinese Hut                               2.700000           50
+Cake Point                                       1.740000           49
+Gupta Ji Ka Dhaba                                1.300000           49
+Ramesh Vaishno Dhaba                             3.100000           48
+New Madras Cafe                                  1.966667           47
+Green Restaurant                                 1.800000           47
+Coco Bambu                                       4.550000           47
+Fresh n Refresh                                  3.100000           46
+Wah G Wah                                        1.766667           46
+New Zaika                                        2.750000           45
+Bhappe Di Hatti                                  3.300000           45
+Super Snacks                                     1.550000           44
+The Cake Shop                                    1.650000           44
+Tpot                                             0.971429           43
+South Indian Hut                                 1.575000           43
+Metro Fast Food                                  2.650000           43
+EDC Mania                                        1.650000           41
+Aggarwal Sweet Corner                            1.260000           41
+Shamji Sweets                                    3.050000           41
+Health Buzzz                                     3.133333           40
+Aggarwal Sweets                                  0.792857           39
+Snack Junction                                   3.100000           37
+Breaktym                                         2.766667           37
+Momos House                                      3.100000           37
+Chao Cart                                        3.200000           36
+Pizza Diet                                       2.750000           35
+Liquid                                           3.600000           35
+Aggarwal Sweet India                             1.700000           35
+Mahi Rasoi                                       1.300000           34
+Aapki Rasoi                                      1.525000           34
+Faaso's                                          1.800000           34
+Chaap Point                                      3.200000           34
+China Hut                                        2.700000           34
+Fluffles - The Fluffy Waffle Co.                 3.000000           34
+Spanish Delights                                 3.300000           33
+Konetto Pizza                                    1.750000           32
+Standard Sweets                                  1.800000           32
+Khalsa Veg Corner                                3.250000           32
+Pizza Yum                                        2.900000           32
+Ram Chinese Food                                 3.000000           32
+The Belgian Fries Company                        1.850000           32
+34 Parkstreet Lane                               3.050000           31
+The Chef                                         2.950000           31
+Dilli Rasoi                                      1.600000           31
+China Hot Pot                                    2.750000           31
+Evergreen Sweets                                 2.700000           30
+Anupam Sweets                                    2.550000           29
+The Mirch Masala                                 3.100000           29
+Sagar Dhaba                                      1.550000           29
+Mom's Kitchen                                    1.750000           28
+Pizza Station                                    2.166667           28
+Amritsari Dhaba                                  3.050000           28
+Chawlas 2                                        1.500000           28
+Cake 24x7                                        1.650000           27
+The China Town                                   1.700000           27
+Rajshree                                         3.200000           27
+Organic Express                                  3.200000           27
+Juice Lounge                                     1.700000           26
+Bikaner Kesarvala                                1.600000           26
+Vaishno Rasoi                                    1.300000           26
+WTF - World's Tastiest Food                      2.400000           26
+Papa Buns                                        1.800000           26
+Punjabi's Veg Grill                              2.300000           25
+Niti Shake & Ice Cream Hub                       1.266667           25
+Food Plaza                                       1.066667           24
+Sadda Adda                                       1.750000           24
+Aggarwal's Sweets Paradise                       2.800000           24
+Crust N Cakes                                    3.300000           24
+Mr. Baker's                                      1.500000           23
+Da Pizza Corner                                  2.260000           23
+Khan Chicken Biryani                             2.900000           23
+Pasta Hub                                        3.050000           23
+Chinese Food                                     2.000000           21
+Garden Hut                                       2.900000           21
+Super Cake Shop                                  2.050000           20
+Syall Kotian Da Dhaba                            1.500000           20
+Chinese Food Corner                              0.833333           20
+Mr. Momo                                         1.350000           19
+Biryani Vice                                     1.800000           19
+Green Chilli                                     1.400000           19
+U Like                                           1.500000           19
+Tandoori Tadka                                   1.650000           18
+Dolce Gelato                                     0.885714           18
+Chai Mantra                                      1.600000           18
+Royale Bakers                                    1.400000           18
+Puja Sandwich House                              1.350000           17
+The Pirates Of China Town                        1.600000           17
+Hunger's Hub                                     1.550000           16
+Zaika Kathi Rolls                                1.500000           16
+Dilli Light                                      1.300000           16
+Chennai Express                                  1.600000           15
+Dosa Plaza                                       1.600000           15
+Bakingo                                          2.850000           15
+Bikaner's                                        2.650000           15
+Food Factory                                     1.500000           15
+Snack Shack                                      1.350000           15
+Balaji Dhaba                                     1.350000           14
+Roll Corner                                      1.650000           14
+KC Bakers                                        1.600000           14
+Choco Kraft                                      1.600000           14
+Wild Chef House                                  1.550000           14
+Rolling Beans                                    2.800000           14
+Amar Bakery                                      1.650000           13
+Tandoori Junction                                1.200000           13
+Brown Town                                       1.350000           13
+Pastry Palace                                    1.600000           13
+Lazeez Restaurant                                1.500000           12
+Magic Masala                                     1.500000           12
+Aggarwal Bikaneri Sweets                         1.450000           11
+Aggarwal Sweets & Restaurant                     1.350000           11
+Yo! Dimsum                                       1.500000           11
+Bikaner Sweets & Restaurant                      0.516667           11
+Ankur Family Restaurant                          2.850000           11
+Chauhan Hotel                                    1.450000           11
+The Taste                                        3.050000           11
+Chai Thela                                       1.550000           11
+Yomo-Your Only Momo Outlet                       3.000000           11
+Joost Juice Bar                                  1.066667           10
+Mx Corn                                          0.775000           10
+Adarsh Kulfi                                     1.500000           10
+Grover Sweets                                    1.550000           10
+Aggarwal Bikaner Sweets                          1.000000           10
+Delhi Biryani Hut                                1.350000            9
+Shalimar Vyanjan                                 1.500000            9
+Mogambo Kitchen                                  1.550000            9
+The Chaiwalas                                    0.966667            9
+The Roll Van                                     2.950000            9
+Chai Garam                                       0.725000            9
+Al Zaika                                         1.450000            9
+BonJuz                                           1.550000            8
+Flavors Of London                                1.500000            8
+Delight Express                                  1.450000            8
+6 Pack Momos                                     1.400000            8
+Night Food Delivery                              1.350000            7
+Pizza Hub                                        0.000000            7
+Jain Restaurant                                  1.500000            7
+Rasoi                                            1.500000            7
+Baba Chicken Ludhiana Wale                       1.550000            7
+Cafe Buddy's                                     1.450000            6
+Kwality Wall's Swirl's                           0.750000            6
+Desi Tadka                                       1.500000            6
+Pandit Ji Ki Apni Rasoi                          1.200000            6
+Aggarwal Sweet Centre                            0.000000            6
+Radha Swami Shudh Vaishno Dhaba                  0.000000            6
+Mother's Kitchen                                 1.450000            6
+Aggarwal Sweet & Bakers                          1.450000            5
+Madras Coffee House                              1.500000            5
+VadaPav 'n' Frankie                              1.500000            5
+Snacks Point                                     1.450000            5
+Kettle & Kegs                                    0.000000            5
+Amul Ice-Cream Parlour                           1.000000            5
+Aggarwal Sweets Centre                           1.450000            5
+Pizza Day                                        0.000000            4
+Fresh Meat CO                                    1.450000            4
+Meatwale.com                                     0.000000            4
+Hot & Spicy                                      1.450000            4
+Dana Pani                                        1.400000            4
+Chilli Tadka                                     0.000000            3
+D Food                                           0.000000            3
+Anand Sweets                                     0.000000            3
+Biryani Bot                                      0.000000            3
+Punjabi Chicken                                  0.000000            3
+Singh Chicken                                    0.000000            3
+Riyaz Biryani Corner                             0.000000            3
+Lasha Chinese Food                               0.000000            3
+Flavours Kitchen                                 0.000000            3
+Kesarwa Bakez                                    0.000000            3
+Yadav Sweets                                     0.000000            2
+Maggi Point                                      0.000000            2
+Golden Bakery                                    0.000000            2
+Bikaner Sweets & Bakers                          0.000000            2
+Da Pizza Zone                                    0.000000            2
+Soya Bite's                                      0.000000            2
+OCD - Online Cake Delivery                       0.000000            2
+Rasoi - The Indian Zaika                         0.000000            2
+Pizza King                                       0.000000            1
+Royal Spice                                      0.000000            1
+Bikaner Rasoi                                    0.000000            1
+The Square Meal                                  0.000000            1
+Big Biryani                                      0.000000            1
+Night Munchers                                   0.000000            1
+Special Chicken Biryani                          0.000000            1
+Delhi Chaat Bhandar                              0.000000            1
+Ghar Ka Khana                                    0.000000            1
+Essen Foods                                      0.000000            1
+Chinese Hot                                      0.000000            1
+Biryani Express                                  0.000000            1
+Aap Ki Khatir                                    0.000000            0
+Rajdhani Restaurant                              0.000000            0
+Murliwala Bakers                                 0.000000            0
+Green Valley Chinese Food                        0.000000            0
+Street Cafe                                      0.000000            0
+Jyoti Sweets                                     0.000000            0
+The Big Scoop                                    0.000000            0
+Foodies                                          0.000000            0
+Garam Masala                                     0.000000            0
+Firangi Bake                                     0.000000            0
+Chinese Fast Food                                0.000000            0
+Bikaner Misthan Bhandar                          0.000000            0
+Bake Walkers                                     0.000000            0
+Whatslife.in                                     0.000000            0

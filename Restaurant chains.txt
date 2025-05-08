@@ -1,0 +1,735 @@
+Restaurant chains present in the dataset:
+
+                                           Latitude  Longitude
+Restaurant Name                                               
+10 Downing Street                                 2          2
+221 B Baker Street                                3          3
+34 Parkstreet Lane                                2          2
+34, Chowringhee Lane                             12         12
+4700BC Popcorn                                    2          2
+6 Pack Momos                                      2          2
+A Piece of Paris                                  2          2
+AB's - Absolute Barbecues                         4          4
+AB's Absolute Barbecues                           2          2
+Aap Ki Khatir                                     2          2
+Aapki Rasoi                                       4          4
+Adarsh Kulfi                                      2          2
+Adyar Ananda Bhavan                               2          2
+Aggarwal Bikaner Sweets                           3          3
+Aggarwal Bikaneri Sweets                          2          2
+Aggarwal Sweet & Bakers                           2          2
+Aggarwal Sweet Centre                             3          3
+Aggarwal Sweet Corner                             5          5
+Aggarwal Sweet India                              5          4
+Aggarwal Sweets                                  14         14
+Aggarwal Sweets & Restaurant                      2          2
+Aggarwal Sweets Centre                            2          2
+Aggarwal Sweets India                             3          3
+Aggarwal's Sweets Paradise                        2          2
+Al Bake                                           6          6
+Al Zaika                                          2          2
+Alaturka                                          2          2
+All About Food                                    2          2
+Amar Bakery                                       2          2
+Americana Kitchen and Bar                         2          2
+Amici Cafe                                        3          3
+Ammu's South Indian Restaurant                    2          2
+Amritsari Dhaba                                   2          2
+Amul Ice-Cream Parlour                            3          3
+Anand Sweets                                      2          2
+Angeethi                                          2          2
+Angels in my Kitchen                              8          8
+Anjlika Pastry Shop                               2          2
+Ankur Family Restaurant                           2          2
+Anupam Sweets                                     2          2
+Apni Rasoi                                       12         12
+Applebee's                                        4          4
+Arabian Delites                                   2          2
+Arabian Nites                                     2          2
+Ashok Meat Wala                                   2          2
+Ashoka Restaurant                                 2          2
+Asian Haus                                        2          2
+Au Bon Pain                                       2          2
+Aureo Dine & Bake House                           2          2
+BTW                                               7          7
+Baba Chicken Ludhiana Wale                        2          2
+Bake Club                                         2          2
+Bake N Shake                                      3          3
+Bake Walkers                                      2          2
+Baked Buns                                        3          3
+Baker Street                                      2          2
+Baker's Stop                                      2          2
+Bakers Oven                                       2          2
+Baking Bad                                        2          2
+Bakingo                                           2          2
+Balaji Dhaba                                      2          2
+BarShala                                          3          3
+Barbeque Nation                                  24         24
+Barbeque Ville                                    2          2
+Barista                                          22         22
+Basil Tree                                        2          2
+Baskin Robbins                                   28         28
+Bats On Delivery                                  3          3
+Bawarchi                                          4          4
+Behrouz Biryani                                  13         13
+Beijing Street                                    2          2
+Beliram Degchiwala                                2          2
+Bengal Sweet Corner                               2          2
+Berco's                                           9          9
+Bhappe Di Hatti                                   2          2
+Bharat Sweets                                     3          3
+Bhimsain's Bengali Sweet House                    2          2
+Bhoj Restaurant                                   2          2
+Big Biryani                                       2          2
+Big Chill                                         4          4
+Big Dragon                                        2          2
+Big Fat Sandwich                                  2          2
+Big Wong XL                                       2          2
+Big Yellow Door                                   3          3
+Bijoli Grill                                      2          2
+Bikaner Kesarvala                                 2          2
+Bikaner Misthan Bhandar                           2          2
+Bikaner Rasoi                                     2          2
+Bikaner Sweets                                   13         13
+Bikaner Sweets & Bakers                           2          2
+Bikaner Sweets & Restaurant                       6          6
+Bikaner's                                         2          2
+Bikanervala                                      14         14
+Bikano Chat Cafe                                  2          2
+Bikkgane Biryani                                  3          3
+Biryani Art                                       2          2
+Biryani Blues                                     6          6
+Biryani Bot                                       2          2
+Biryani By Kilo                                   3          3
+Biryani Express                                   2          2
+Biryani Vice                                      2          2
+Biryaniwala                                       2          2
+Black Pepper                                      2          2
+Blue Tokai Coffee Roasters                        2          2
+Bobby Tikki Wala                                  2          2
+Bombay Brasserie                                  2          2
+Bon Bon Pastry Shop                               2          2
+BonJuz                                            2          2
+Breaktym                                          3          3
+Brijwasi Restaurant                               2          2
+Brown Town                                        2          2
+Bun Intended                                      4          4
+Bunty Dhaba                                       3          3
+Burger Hut                                        2          2
+Burger Joint                                      2          2
+Burger King                                      16         16
+Burger Point                                     11         11
+Burger Singh                                      3          3
+Burger Xpress                                     4          4
+Burgrill                                          2          2
+Cafe Brown Sugar                                  2          2
+Cafe Buddy's                                      2          2
+Cafe Coffee Day                                  77         76
+Cafe Coffee Day - The Lounge                      6          6
+Cafe Coffee Day The Square                        2          2
+Cafe Delhi Heights                                3          3
+Cafe Diva                                         2          2
+Cafe Turtle                                       3          3
+Caffe 9                                           2          2
+Caffe Tonino                                      2          2
+Caff�� La Poya                                    2          2
+Cake 24x7                                         2          2
+Cake Palace                                       2          2
+Cake Point                                        5          5
+Cakes & Bakes                                     3          3
+Captain Bill$ Deliverz                            3          3
+Captain Grub                                      5          5
+Carl's Jr.                                        2          2
+Ceviche Tapas Bar & Restaurant                    2          2
+Chaap Point                                       2          2
+Chaayos                                          18         18
+Chai Garam                                        4          4
+Chai Mantra                                       2          2
+Chai Point                                        4          4
+Chai Thela                                        2          2
+Chalte Firte Momos & Special Foods                2          2
+Changezi Chicken                                  3          3
+Chao Cart                                         2          2
+Chaophraya                                        3          3
+Chaska                                            4          4
+Chauhan Hotel                                     2          2
+Chawla Family Restaurant                          2          2
+Chawla's                                          2          2
+Chawla's 2                                        4          4
+Chawla's Chic Inn                                 3          3
+Chawla's Tandoori Junction                        3          3
+Chawla's Tandoori Xpress                          2          2
+Chawla's�_                                        7          7
+Chawlas 2                                         2          2
+Chawnsan Chef                                     2          2
+Chennai Express                                   2          2
+Chicago Pizza                                    12         12
+Chick-fil-A                                       2          2
+Chili's                                           5          5
+Chili's Grill & Bar                               2          2
+Chilli Tadka                                      2          2
+Chimney                                           3          3
+China Garden                                      2          2
+China Hot Pot                                     2          2
+China Hut                                         2          2
+China Town                                        7          7
+Chinese Corner                                    5          5
+Chinese Fast Food                                 2          2
+Chinese Food                                      3          3
+Chinese Food Corner                               3          3
+Chinese Hot                                       2          2
+Chinese Hut                                       7          7
+Chinese King                                      2          2
+Choco Kraft                                       2          2
+Chokola                                           2          2
+Chowringhee                                       8          8
+Chutneez Restaurant Lounge & Bar                  2          2
+Cinnabon                                          2          2
+Circus                                            2          2
+Clever Fox Cafe                                   2          2
+Coco Bambu                                        2          2
+Cocoberry                                         9          9
+Coldpress Company                                 2          2
+Colonel's Kababz                                  4          4
+Comesum                                           2          2
+Cones & Curries                                   2          2
+Cook Du Kdu                                       2          2
+Costa Coffee                                     20         20
+Country Curries                                   2          2
+Crazy Noodles                                     2          2
+Crudo Juicery                                     2          2
+Crust N Cakes                                     2          2
+D Food                                            2          2
+DCK- Dana Choga's Kitchen                         4          4
+Da Pizza Corner                                   5          5
+Da Pizza Zone                                     2          2
+Dabba Meat                                        2          2
+Dana Pani                                         2          2
+Deez Biryani & Kebabs                             4          4
+Defence Bakery                                    3          3
+Delhi Biryani Hut                                 2          2
+Delhi Chaat Bhandar                               2          2
+Delhi Club House                                  2          2
+Delight Express                                   2          2
+Desi Tadka                                        2          2
+Desi Vibes                                        3          3
+Dezertfox                                         2          2
+Dilli BC                                          2          2
+Dilli Darbar                                      3          3
+Dilli Light                                       2          2
+Dilli Rasoi                                       2          2
+Din Tai Fung                                      2          2
+Dishoom                                           2          2
+Dolce Gelato                                      6          6
+Domino's Pizza                                   79         79
+Dosa Plaza                                        2          2
+Doughlicious                                      3          3
+Drifters Cafe                                     2          2
+Drool Waffles                                     2          2
+Druk                                              2          2
+Dunkin Donuts                                     2          2
+Dunkin' Donuts                                   22         22
+D�_ner Grill                                      3          3
+D�_vero��lu                                       2          2
+EDC Mania                                         2          2
+Effingut Brewerkz                                 2          2
+Eggers Madhouse                                   2          2
+Embassy                                           2          2
+Essen Foods                                       2          2
+Evergreen Sweets                                  2          2
+Faaso's                                           2          2
+Faasos                                            8          8
+Fabulous Cake Bites                               2          2
+Farzi Cafe                                        6          6
+Fast Trax                                         2          2
+Fat Lulu's                                        2          2
+Finger Licious                                    3          3
+Firangi Bake                                      2          2
+First Eat                                         2          2
+Fish Streat                                       2          2
+Fit Bites                                         2          2
+Flavors Of London                                 2          2
+Flavours                                          2          2
+Flavours Kitchen                                  2          2
+Flirty Momo's                                     5          5
+Fluffles - The Fluffy Waffle Co.                  2          2
+Flying Cakes                                      3          3
+Food Express                                      2          2
+Food Factory                                      2          2
+Food Plaza                                        3          3
+Food Scouts                                       3          3
+Foodhall                                          3          3
+Foodies                                           3          3
+Fresh Meat CO                                     2          2
+Fresh n Refresh                                   2          2
+FreshMenu                                         4          4
+Frontier                                         14         14
+Frozen Factory                                    2          2
+Garam Dharam                                      2          2
+Garam Masala                                      2          2
+Garden Hut                                        2          2
+Garota de Ipanema                                 2          2
+Gazebo                                            3          3
+Gelato Vinto                                      4          4
+Ghar Ka Khana                                     2          2
+Giani                                            29         29
+Giani's                                          22         22
+Go Kylin                                          2          2
+GoGourmet                                         4          4
+Gola Sizzlers                                     4          4
+Golden Bakery                                     2          2
+Goli Vada Pav No. 1                               6          6
+Goosebumps                                        3          3
+Gopala                                           10         10
+Granite City Food & Brewery                       2          2
+Green Chick Chop                                 51         51
+Green Chilli                                      2          2
+Green Leaf                                        2          2
+Green Restaurant                                  2          2
+Green Valley Chinese Food                         2          2
+Grillz                                            2          2
+Grover Sweets                                     2          2
+Gulab                                             2          2
+Gullu's                                           2          2
+Gung The Palace                                   2          2
+Gupta Chat Corner                                 2          2
+Gupta Ji Ka Dhaba                                 2          2
+Gymkhana                                          2          2
+Habibi                                            2          2
+Habibi Express                                    3          3
+Haldiram Bhujiawala                               2          2
+Haldiram's                                       16         16
+Halki Aanch                                       2          2
+Hangchuaa's Chinese Food Corner                   3          3
+Happy Hakka                                       5          5
+Hard Rock Cafe                                    3          3
+Harry's Bar + Cafe                                2          2
+Hasty Tasty                                       3          3
+Havmor Ice Cream                                  3          3
+Hawkers                                           2          2
+Health Buzzz                                      3          3
+High On Burgers                                   2          2
+Hira Sweets                                       3          3
+Hong Kong Express                                 4          4
+Hornbill                                          2          2
+Hot & Spicy                                       2          2
+Hot Cherries                                      2          2
+Hot Joint Fast Food                               2          2
+Hot Pot                                           4          4
+Hot Stuff                                         2          2
+Hotel Malabar                                     2          2
+HuHot Mongolian Grill                             3          3
+Hunger Strike                                     2          2
+Hunger's Hub                                      2          2
+Hungry - I                                        2          2
+Hungry Minister                                   2          2
+Hurry's Paratha                                   2          2
+Hwealthcafe                                       2          2
+Hyderabad House                                   2          2
+Ichiban                                           2          2
+Imly                                              2          2
+Imperfecto                                        2          2
+Indian Coffee House                               3          3
+Instapizza                                        5          5
+Invitation                                        2          2
+Italiano                                          2          2
+JSB Evergreen Snack & Sweets                      2          2
+Jack Po!tato's                                    2          2
+Jahangeer Foods                                   2          2
+Jain Restaurant                                   2          2
+Jaiveer Naan & Chaap                              3          3
+Jamie's Italian                                   4          4
+Joey's Pizza                                      2          2
+Joost Juice Bar                                   3          3
+Juice Lounge                                      2          2
+Jungle Jamboree                                   4          4
+Just Vada Pav                                     3          3
+Jyoti Sweets                                      2          2
+KB's Kulfi & Icecream                             3          3
+KC Bakers                                         2          2
+KFC                                              18         18
+Kake Da Hotel                                     5          5
+Kake Di Hatti                                     2          2
+Kamal's                                           2          2
+Kamboj's                                          2          2
+Kanha Sweets                                      2          2
+Kanwarji's                                        3          3
+Karim's                                          13         13
+Kathi Junction                                    4          4
+Kati Roll Cottage                                 2          2
+Kaveri Restaurant And Caterers                    2          2
+Kebab Gali                                        2          2
+Kebab Xpress                                      8          8
+Kerala Cafe                                       3          3
+Kesarwa Bakez                                     2          2
+Kettle & Kegs                                     5          5
+Keventers                                        34         34
+Khalsa Veg Corner                                 2          2
+Khan Chacha                                       7          7
+Khan Chicken Biryani                              2          2
+Khana Khazana                                     2          2
+Khidmat                                           2          2
+Kings Kulfi                                       6          6
+Kitchen King                                      2          2
+Kolkata Biryani House                             2          2
+Kolkata Hot Kathi Roll                            2          2
+Kolkata Kathi Roll                                2          2
+Konetto Pizza                                     2          2
+Koyla Kebab                                       2          2
+Krispy Kreme                                      3          3
+Kulcha King                                       2          2
+Kumar Pastry Shop                                 2          2
+Kwality Wall's Swirl's                            4          4
+L'Opera                                           5          5
+La Americana                                      2          2
+La Pino'z Pizza                                   3          3
+Lasha Chinese Food                                2          2
+Laxmi Ice Cream                                   2          2
+Lazeez Restaurant                                 2          2
+Le Chef                                           2          2
+Let's Noodle                                      2          2
+Liquid                                            2          2
+Litti.In                                          2          2
+Little Chef                                       3          3
+Little Italy                                      2          2
+Los Agaves                                        2          2
+MR.D - Deliciousness Delivered                    2          2
+Mad Over Donuts                                   5          5
+Made In Punjab                                    2          2
+Madhuvan Chinese Fast Food                        2          2
+Madras Cafe                                      11         11
+Madras Coffee House                               2          2
+Madras Dosa & Chinese                             2          2
+Maggi Point                                       2          2
+Magic Masala                                      2          2
+Mahi Rasoi                                        2          2
+Mainland China                                    6          6
+Mamagoto                                          3          3
+Manohar Bikkaneri                                 2          2
+Manohar Dairy And Restaurant                      2          2
+Matchbox                                          2          2
+McDonald's                                       48         48
+Meatwale.com                                      4          4
+Mellow Mushroom                                   2          2
+Metro Dhaba                                       2          2
+Metro Fast Food                                   2          2
+Miam                                              2          2
+Midnight Hunger                                   2          2
+Midnight Hunger Hub                               3          3
+Mirchievous                                       2          2
+Mithaas                                           2          2
+Mithaas Sweets                                    2          2
+Mitra Da Dhaba                                    3          3
+Mitthu Tikki Wala                                 2          2
+Mocha                                             7          7
+Mogambo Kitchen                                   2          2
+Moksha                                            2          2
+Mom's Kitchen                                     2          2
+Momo-Cha                                          4          4
+Momos House                                       2          2
+Moon Bite                                         2          2
+Mother's Kitchen                                  2          2
+Moti Mahal Delux                                 14         14
+Moti Mahal Delux Tandoori Trail                   6          6
+Moti Mahal Delux- Legendary Culinary              2          2
+Movenpick                                         3          3
+Mr. Baker's                                       2          2
+Mr. Brown                                         3          3
+Mr. Momo                                          2          2
+Mr. Sub                                           6          6
+Muffins                                           2          2
+Munch Nation                                      2          2
+Muradabadi Shahi Biryani & Chicken Corner         3          3
+Murliwala Bakers                                  2          2
+Mx Corn                                           4          4
+Mysore Cafe                                       2          2
+Nagpal's                                          2          2
+Naivedyam                                         3          3
+Nando's                                           5          5
+Nanking                                           2          2
+Nathu's Sweets                                    5          5
+Natural Ice Cream                                 2          2
+Naturals Ice Cream                                2          2
+Nawabi Mughlai Zaika                              2          2
+Nazeer Delicacies                                 2          2
+Nazeer Foods                                      7          7
+New Kadimi                                        2          2
+New Madras Cafe                                   3          3
+New Punjabi Khana                                 2          2
+New Town Cafe - Park Plaza                        2          2
+New Zaika                                         2          2
+Night Food Delivery                               2          2
+Night Food Xprs                                   2          2
+Night Munchers                                    2          2
+Nirula's                                          4          4
+Nirula's Ice Cream                                9          9
+Nite Bites                                        4          4
+Niti Shake & Ice Cream Hub                        3          3
+Nizam's Kathi Kabab                               4          4
+Nooba                                             2          2
+Not Just Paranthas                                3          3
+Nukkadwala                                        5          5
+Nutritious Nation                                 2          2
+OCD - Online Cake Delivery                        2          2
+Oberoi Biryani                                    2          2
+Oberoi's                                          2          2
+Oh Buoy                                           2          2
+Oh! Calcutta                                      2          2
+Olive Bistro                                      2          2
+Om Sweets & Snacks                                3          3
+Onesta                                            3          3
+Open Oven                                         4          4
+Organic Express                                   2          2
+Otik Cake Shop                                    2          2
+Out Of The Box                                    2          2
+Ovenstory Pizza                                   8          8
+Paapi Paet                                        2          2
+Pakwan                                            4          4
+Palmshore                                         3          3
+Pandey Chinese Hut                                2          2
+Pandit Ji Ki Apni Rasoi                           2          2
+Papa Buns                                         2          2
+Papa Veg Chinese Food                             2          2
+Paradise                                          2          2
+Paramjeet Machi Wala                              2          2
+Pasta Hub                                         2          2
+Pasta Hut                                         2          2
+Pastry Palace                                     2          2
+Patiala Shahi                                     2          2
+Pebble Street                                     2          2
+Perch Wine & Coffee Bar                           2          2
+Perfect Bake                                      2          2
+Pho King Awesome                                  2          2
+Pind Balluchi                                    20         20
+Pirates of Grill                                  4          4
+Pita Pit                                          5          5
+Pitstop                                           2          2
+Pizza Day                                         2          2
+Pizza Diet                                        2          2
+Pizza Hub                                         3          3
+Pizza Hut                                        30         30
+Pizza Hut Delivery                               19         19
+Pizza King                                        2          2
+Pizza Station                                     3          3
+Pizza Yum                                         2          2
+Polka Pastry & Snack Bar                          3          3
+Prince Chaat Corner                               2          2
+Public Cafe                                       4          4
+Pudding & Pie                                     6          6
+Puja Sandwich House                               2          2
+Punjab Grill                                      5          5
+Punjab Restaurant                                 3          3
+Punjabee's Darbar                                 2          2
+Punjabi By Nature                                 2          2
+Punjabi Chaap Corner                              8          8
+Punjabi Chicken                                   2          2
+Punjabi Dhaba                                     3          3
+Punjabi Pakwaan                                   3          3
+Punjabi Rasoi                                     6          6
+Punjabi Tadka                                     8          8
+Punjabi Zaika                                     4          4
+Punjabi's Veg Grill                               4          4
+Puri Bakers                                       4          4
+QD's Restaurant                                   3          3
+Qureshi Kabab Corner                              2          2
+Qureshi's Kabab Corner                            4          4
+Raasta                                            2          2
+Radha Swami Shudh Vaishno Dhaba                   3          3
+Rainbows                                          4          4
+Raj Rasoi                                         2          2
+Raj Restaurant                                    2          2
+Rajdhani Restaurant                               2          2
+Rajshree                                          2          2
+Ram Chinese Food                                  2          2
+Ramesh Vaishno Dhaba                              2          2
+Rasoi                                             2          2
+Rasoi - The Indian Zaika                          2          2
+Red Chilli                                        5          5
+Red Mango                                         2          2
+Reena Restaurant                                  2          2
+Relax Xpress                                      2          2
+Republic of Chicken                              18         18
+Rhinehart's Oyster Bar                            2          2
+Riyaz Biryani Corner                              3          3
+Riyaz Chicken Corner                              2          2
+Roll Club                                         3          3
+Roll Corner                                       2          2
+Rolling Beans                                     2          2
+Rollmaal                                          3          3
+RollsKing                                         7          7
+Roti Aur Boti                                     2          2
+Royal Spice                                       2          2
+Royale Bakers                                     2          2
+SGF - Spice Grill Flame                           5          5
+Sadda Adda                                        2          2
+Sagar Dhaba                                       2          2
+Sagar Ratna                                      19         19
+San Carlo                                         2          2
+Sandoz                                            5          5
+Sandwich King                                     2          2
+Sanjha Chulha                                     6          6
+Saravana Bhavan                                   3          3
+Sardar A Pure Meat Shop                           9          9
+Say Cheese                                        2          2
+Sbarro                                            2          2
+Senorita's                                        2          2
+Sethi's The Cake Shop                             2          2
+Shahenshah                                        3          3
+Shake Square                                      2          2
+Shalimar Vyanjan                                  2          2
+Shama Chicken Corner                              9          9
+Shamji Sweets                                     2          2
+Shankar Fast Food                                 2          2
+Shawarma King's                                   2          2
+Shawarma Wala                                     3          3
+Shree Bikaner Misthan Bhandar                     5          5
+Shree Durga Dosa                                  2          2
+Shree Rathnam                                    15         15
+Shri Ram Restaurant                               2          2
+Shyam Sweets                                      2          2
+Sibang Bakery                                     2          2
+Side Wok                                          3          3
+Silantro Fil-Mex                                  2          2
+Singh Chicken                                     2          2
+Singz                                             2          2
+Slice of Italy                                    7          7
+Smaaash                                           2          2
+Smoke House Deli                                  2          2
+Snack Junction                                    2          2
+Snack Shack                                       2          2
+Snacks Point                                      2          2
+SodaBottleOpenerWala                              3          3
+Sonya Bakery Cafe                                 2          2
+South Cafe                                        2          2
+South Indian Cafe                                 2          2
+South Indian Corner                               2          2
+South Indian Hut                                  4          4
+Southy                                            6          6
+Soya Bite's                                       2          2
+Spanish Delights                                  2          2
+Special Chicken Biryani                           2          2
+Speedy Chow                                       3          3
+Spice Route                                       2          2
+SpiceKlub                                         2          2
+Spooky Sky                                        2          2
+Sri Balaji                                        3          3
+Standard Sweets                                   2          2
+Starbucks                                        18         18
+Stop My Starvation                                2          2
+Street Cafe                                       2          2
+Street Foods by Punjab Grill                      3          3
+Subway                                           62         62
+Sugar & Spice - Le Marche                         4          4
+Sumo Sushi                                        2          2
+Super Cake Shop                                   4          4
+Super Snacks                                      2          2
+Suruchi                                           2          2
+Sushiya Express                                   3          3
+Swagath                                           5          5
+Syall Kotian Da Dhaba                             2          2
+TGI Friday's                                      6          6
+Taco Bell                                         3          3
+Talaga Sampireun                                  3          3
+Tamura                                            2          2
+Tandoori Junction                                 2          2
+Tandoori Tadka                                    2          2
+Taste of India                                    2          2
+Tea Halt                                          3          3
+Tea Trails                                        2          2
+Tea Villa Cafe                                    4          4
+Teddy Boy                                         2          2
+Texas Roadhouse                                   5          5
+The Artful Baker                                  2          2
+The Bake Studio                                   2          2
+The Barbeque Company                              2          2
+The Beer Cafe                                     6          6
+The Belgian Fries Company                         2          2
+The Big Chill Cakery                              2          2
+The Big Scoop                                     2          2
+The Blue Tandoor                                  2          2
+The Breakfast Club                                2          2
+The Cafe                                          2          2
+The Cake Shop                                     2          2
+The Chai Story                                    3          3
+The Chaiwalas                                     3          3
+The Chatter House                                 2          2
+The Cheesecake Factory                            2          2
+The Chef                                          2          2
+The China Town                                    2          2
+The Chinese Hut                                   5          5
+The Chocolate Room                                2          2
+The Coffee Bean & Tea Leaf                        4          4
+The Crab Shack                                    2          2
+The Creamery                                      2          2
+The Culinary Pitaara                              2          2
+The Diet Kitchen                                  6          6
+The Dosa King                                     2          2
+The Fisherman's Wharf                             3          3
+The Flying Saucer Cafe                            2          2
+The Golden Dragon                                 3          3
+The Great Kabab Factory                           2          2
+The Junkyard Cafe                                 2          2
+The Kathis                                        4          4
+The Kitchen                                       2          2
+The Mad Teapot/The Wishing Chair                  2          2
+The Midnight Heroes                               5          5
+The Mirch Masala                                  2          2
+The National                                      2          2
+The Night Owl                                     2          2
+The Pint Room                                     2          2
+The Pirates Of China Town                         2          2
+The Roll Van                                      2          2
+The Square Meal                                   2          2
+The Tandoor                                       2          2
+The Taste                                         2          2
+The Yellow Chilli                                 7          7
+Theos                                             2          2
+Tibb's Frankie                                    7          7
+Tikka Junction                                    3          3
+Tikka Town                                        3          3
+Timboo Cafe                                       2          2
+Tipu Sultan                                       2          2
+Town Hall                                         2          2
+Tpot                                              7          7
+True Blue                                         3          3
+Truffles                                          2          2
+Twenty Four Seven                                19         19
+Twigly                                            2          2
+Twisted Tacos                                     2          2
+U Like                                            2          2
+Urban Dhaba                                       2          2
+Urban Punjab                                      3          3
+VadaPav 'n' Frankie                               2          2
+Vadapav Junction                                  2          2
+Vaishno Punjabi Dhaba                             2          2
+Vaishno Rasoi                                     2          2
+Veg Ex                                            3          3
+Viva Hyderabad                                    5          5
+WTF - World's Tastiest Food                       2          2
+Wagh Bakri Tea Lounge                             2          2
+Wah G Wah                                         3          3
+Wah Ji Wah                                       19         19
+Wai Yu Mun Ching                                  2          2
+Weird Time Food                                   2          2
+Wendy's                                           2          2
+Whatslife.in                                      2          2
+Wheelyz                                           2          2
+Whipped                                           2          2
+Wild Chef House                                   2          2
+Wok On Fire                                       3          3
+Wood Box Cafe                                     2          2
+Wow! Momo                                        11         11
+Wrapss                                            6          6
+Yadav Sweets                                      2          2
+Yo! China                                         9          9
+Yo! Dimsum                                        2          2
+Yomo-Your Only Momo Outlet                        2          2
+Yumm Biryani                                      2          2
+ZASTY                                             2          2
+Zaaika Junction                                   2          2
+Zaffran                                           3          3
+Zaika                                             4          4
+Zaika Kathi Rolls                                 2          2
+Zizo                                              3          3
+Zooby's Kitchen                                   2          2
+bu��no                                            2          2
