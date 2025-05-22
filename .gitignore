@@ -1,6 +1,7 @@
 Dataset .csv
 # Ignore all CSV files
 *.csv
+*.py
 Data Analysis Internship Task .pdf 
 
 
